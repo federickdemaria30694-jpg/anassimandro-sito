@@ -28,4 +28,22 @@ header {
     <p>© 2026 Anassimandro Ambientale Nazionale – Aquila Blu</p>
   </footer>
 </body>
+
 </html>
+.logout-btn {
+position: absolute;
+top: 20px;
+right: 20px;
+padding: 10px 20px;
+background: gold;
+border: none;
+border-radius: 8px;
+font-weight: bold;
+cursor: pointer;
+box-shadow: 0 0 15px rgba(255, 215, 0, 0.7);
+transition: 0.3s;
+}
+
+.logout-btn:hover {
+transform: scale(1.05);
+}
